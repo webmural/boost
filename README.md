@@ -1,3 +1,3 @@
-# [kara](index.html)
+## [*boost* mural](https://webmural.com/boost)
 
-[opensource](UNLICENSE.txt) [kara stencil](https://webmural.com/kara) [template](../../generate)
+[opensource](UNLICENSE.txt) [skywave](https://webmural.com/kara) [template](../../generate)
