@@ -1,7 +1,5 @@
 ::selection {
-  text-shadow:
-    0 -9vmax 0 coral,
-    0 -9vmin 0 plum;
+  text-shadow: 0 -1ex 0 hotpink;
   background: hotpink;
   color: black;
 }
@@ -20,5 +18,11 @@
   outline: thick groove;
   text-shadow:
     0 -1vmax 0 coral,
-    0 -1vmin 0 plum;
+    0 -1vmin 0 coral;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  :any-link {
+    transition: text-shadow 300ms ease-out;
+  }
 }
